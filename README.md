@@ -10,5 +10,3 @@ Overview After preprocessing
 <img width="668" alt="Ap" src="https://github.com/Nmukiti/Car-Sales/assets/37476772/de88cf26-9d07-4c15-9116-6f0986827cc8">
 
 
-Data Visualization Link (in Tableau)
-https://public.tableau.com/app/profile/naum.mukiti/viz/CarSalesAnalysis_16887392431450/Dashboard1
